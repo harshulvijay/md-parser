@@ -1,0 +1,8 @@
+# directories
+.vscode
+dist
+node_modules
+# testing reports
+tests/reports
+
+# files
