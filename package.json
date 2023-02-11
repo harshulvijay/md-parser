@@ -40,7 +40,7 @@
     "microtime": "^3.0.0",
     "mocha": "^8.3.2",
     "mochawesome": "^6.2.2",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "rollup": "^2.45.2",
     "rollup-plugin-delete": "^2.0.0",
     "rollup-plugin-multi-input": "^1.2.0",
